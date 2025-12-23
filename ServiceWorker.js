@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Christmas Run-1.0";
 const contentToCache = [
-    "Build/4fb3b3c9e6a5b23775b03332c88676b7.loader.js",
-    "Build/96471e92190397fbd7033d6881327651.framework.js.unityweb",
-    "Build/3a9faa5acceef9a4b08c6c3f197bd81f.data.unityweb",
-    "Build/dfe956a7ba1bfc2b8b09bbb8c61c6b70.wasm.unityweb",
+    "Build/427e05ab29316764256488ab96b78642.loader.js",
+    "Build/be345514d031976918f1b4e3f6d54979.framework.js.unityweb",
+    "Build/bf98ce944be122d0eb72cb403533104c.data.unityweb",
+    "Build/818b6ea0ebadf23df1a6372bc5e6b36f.wasm.unityweb",
     "TemplateData/style.css"
 
 ];

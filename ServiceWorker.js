@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Christmas Run-1.0";
 const contentToCache = [
     "Build/Christmas Run.loader.js",
-    "Build/Christmas Run.framework.js.br",
-    "Build/Christmas Run.data.br",
-    "Build/Christmas Run.wasm.br",
+    "Build/Christmas Run.framework.js.gz",
+    "Build/Christmas Run.data.gz",
+    "Build/Christmas Run.wasm.gz",
     "TemplateData/style.css"
 
 ];
